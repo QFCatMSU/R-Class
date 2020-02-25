@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-..
-This file is just a test of the RStudio Server connection to GitHub-- there is nothing important here..
-=======
-
-This file is just a test of the RStudio Server connection to GitHub-- there is nothing important here..
->>>>>>> 3857d2066f26847cce9b3f256aebb2a7f4b1af30
+Test file
