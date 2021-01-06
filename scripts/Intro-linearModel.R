@@ -7,7 +7,7 @@
 ## and length(t+1) as the dependent variable.
 
 #prompt user for csv file, read in the data from the csv file
-gdat <- read.csv(file=file.choose());
+gdat <- read.csv(file="data/Intro-linearModel.csv");
 
 #Look at part of the data
 print(head(gdat))
